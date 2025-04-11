@@ -3,8 +3,8 @@ curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 apt install -y nodejs
 
 
-git clone https://github.com/bangpateng/teatx.git
-cd teatx
+git clone https://github.com/3dmaxmuhamad/teatxvdmax.git
+cd teatxvdmax
 
 
 npm i
